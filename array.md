@@ -17,7 +17,6 @@
 </ul>
 
 <h1>Performance</h1>
-<p><strong>Big-O efficiency of operations:</strong></p>
 
 <ul>
   <li><strong>Accessing Time</strong>: O(1) - this is possible because elements are stored at contiguous locations.
@@ -29,7 +28,7 @@
 <h1>Use Cases</h1>
 
 <ul>
-  <li>Storing and accessing a sequence of objects
+  <li>Anything that requires storing and accessing a sequence of objects
 </ul>
 
 <h1>Example</h1>
