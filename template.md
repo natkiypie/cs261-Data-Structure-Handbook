@@ -3,7 +3,12 @@
 
 <p>A <strong>x</strong></p>
 
-<h1>Operations</h1>
+<h1>In Memory</h1>
+<p>In memory, x looks like this:</p>
+
+<img src="" width="500">
+
+<h1>Basic Operations</h1>
 
 <ul>
   <li><strong></strong> - 
@@ -15,7 +20,6 @@
 
 <ul>
   <li><strong></strong>
-
 </ul>
 
 <h1>Use Cases</h1>
@@ -29,3 +33,4 @@
 ![](gif/x.gif)
 
 <p>&copy; Nathaniel Pierce. All rights reserved.</p>
+
