@@ -5,7 +5,7 @@
 
 <p>This is a summary of the data structures I have learned. In computer science, data structures and algorithms form the basic methods for organizing, managing and storing data. All computers rely on fundamental data structures and algorithms to operate. To understand what data structures are, how to implement them, and how to use them, is to have a better understanding of how a computer gets things done. This understanding then informs any technical decision a software engineer makes, allows them to organize large amount of data in the most efficient way, and gives them the tools they need to provide more elegant solutions to problems they would have been able to otherwise.</p>
 
-<h2>The List</h2>
+<h2>Contents:</h2>
 
 <ul>
   <li><a href="array.md">Array</a>

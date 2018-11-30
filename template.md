@@ -9,22 +9,6 @@
   <li><strong></strong> - 
 </ul>
 
-<h1>Implementation</h1>
-
-<p></p>
-
-```python
-
-class x:
-
-    def __init__(self):
-
-```
-
-<h1>Example</h1>
-
-![](gif/x.gif)
-
 <h1>Performance</h1>
 
 <p>Big-O efficiency of operations:</p>
@@ -33,5 +17,13 @@ class x:
   <li><strong></strong>
 
 </ul>
+
+<h1>Use Cases</h1>
+
+<p></p>
+
+<h1>Example</h1>
+
+![](gif/x.gif)
 
 <p>&copy; Nathaniel Pierce. All rights reserved.</p>
