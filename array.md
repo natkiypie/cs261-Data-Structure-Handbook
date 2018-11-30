@@ -5,7 +5,7 @@
 
 <h1>In Memory</h1>
 <p>In memory, an array looks like this:</p>
-<img src="img/array_memory.png" width="500">
+<img src="" width="500">
 
 <h1>Basic Operations</h1>
 
@@ -17,7 +17,7 @@
 </ul>
 
 <h1>Performance</h1>
-<p>Big-O efficiency of operations:</p>
+<h3>Big-O efficiency of operations:</h3>
 
 <ul>
   <li><strong>Accessing Time</strong>: O(1) - this is possible because elements are stored at contiguous locations.
