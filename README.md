@@ -1,19 +1,27 @@
-# My Data Structures Handbook
 
-by YOUR NAME
+<h1>My Data Structures Handbook</h1>
 
-This is a summary of the data structures I have mastered. (More explanation here.
+<p>by Nathaniel Pierce</p>
+
+<p>This is a summary of the data structures I have mastered. (More explanation here.
 Why is this important? What does this prove to potential employers? How does this
 differentiate you from someone who does not know data structures? Why should an
-employer care?).
+employer care?).</p>
 
-## The List
+<h2>The List</h2>
 
-* [Array](array.md)
-* List, Linked List
-* Set
-* Tuple
-* Dictionary
-* TODO (more structures listed here)
+<ul>
+  <li><a href="array.md">Array</a>
+  <li><a href="deque.md">Deque</a>
+  <li><a href="dictionary.md">Dictionary</a>
+  <li><a href="graph.md">Graph</a>
+  <li><a href="list.md">List, Linked list</a>
+  <li><a href="set.md">Set</a>
+  <li><a href="stack.md">Stack</a>
+  <li><a href="tree.md">Tree</a>
+  <li><a href="tuple.md">Tuple</a>
+  <li><a href="array.md">Queue</a>
+</ul>
 
-(c) YOUR NAME. All rights reserved.
+
+<p>&copy; Nathaniel Pierce. All rights reserved.</p>
