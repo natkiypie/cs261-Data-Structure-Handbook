@@ -1,34 +1,36 @@
-# \[Widget\]
 
-A \[widget\] is \[describe in very simple terms\].
+<h1>The x Abstract Data Type</h1>
 
-# In Memory
+<p>A <strong>x</strong></p>
 
-In memory, a \[widget\] looks like this:
+<h1>Operations</h1>
 
-\[sketch or diagram\]
+<ul>
+  <li><strong></strong> - 
+</ul>
 
-\[description of diagram\]
+<h1>Implementation</h1>
 
-# Operations
+<p></p>
 
-A \[widget\] supports the following operations:
+```python
 
-* name: description, Big O efficiency, and explain why / what that means
-* name: description, Big O efficiency, and explain why / what that means
+class x:
 
-# Use Cases
-
-An \[widget\] is useful \[when\] \[why\].
-
-It is not as good as \[what] \[why\].
-
-# Example
+    def __init__(self):
 
 ```
-sample code showing creation, and exercising all of the operations
-or
-a program that doesn't use the structure, and then a version that does
-```
 
-(c) 2018 YOUR NAME. All rights reserved.
+<h1>Example</h1>
+
+![](gif/x.gif)
+
+<h1>Performance</h1>
+
+<p>Big-O efficiency of operations:</p>
+
+<ul>
+  <li><strong></strong>
+
+</ul>
+
