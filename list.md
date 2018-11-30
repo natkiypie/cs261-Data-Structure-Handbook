@@ -1,7 +1,7 @@
 
 <h1>The List Abstract Data Type</h1>
 
-<p>A <strong>list</strong> or <strong>linked list</strong>is a collection of items where each item holds a relative position with respect to the others. We can consider the list as having a first item, a second item, a third item, and so on. We can also refer to the beginning of the list (the first item) or the end of the list (the last item). A linked list maintains the relative positioning of the items it stores. However, there is no requirement that it maintains that positioning in contiguous memory. Instead, it maintain some explicit information in each item, namely the location of the next item, then the relative position of each item can be expressed by simply following the link from one item to the next.</p>
+<p>A <strong>list</strong> or <strong>linked list</strong> is a collection of items where each item holds a relative position with respect to the others. We can consider the list as having a first item, a second item, a third item, and so on. We can also refer to the beginning of the list (the first item) or the end of the list (the last item). A linked list maintains the relative positioning of the items it stores. However, there is no requirement that it maintains that positioning in contiguous memory. Instead, it maintain some explicit information in each item, namely the location of the next item, then the relative position of each item can be expressed by simply following the link from one item to the next.</p>
 
 <h1>In Memory</h1>
 <p>In memory, a list looks like this:</p>
