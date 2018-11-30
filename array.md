@@ -17,7 +17,7 @@
 </ul>
 
 <h1>Performance</h1>
-<h3>Big-O efficiency of operations:</h3>
+<p><strong>Big-O efficiency of operations:</strong></p>
 
 <ul>
   <li><strong>Accessing Time</strong>: O(1) - this is possible because elements are stored at contiguous locations.
