@@ -7,28 +7,31 @@
 <p>In memory, an array looks like this:</p>
 <img src="" width="500">
 
-<h1>Basic Operations</h1>
+<h1>Common Operations</h1>
 
 <ul>
-  <li><strong>Access</strong> - access element using the given index.
-  <li><strong>Search</strong> - search for an element using given the index or by value.
-  <li><strong>Insert</strong> - add an element at the given index.
-  <li><strong>Delete</strong> - delete an element at the given index.
+  <li><strong>Access</strong> - access element using the given index
+  <li><strong>Search</strong> - search for an element using given the index or by value
+  <li><strong>Insert</strong> - add an element at the given index
+  <li><strong>Delete</strong> - delete an element at the given index
 </ul>
 
 <h1>Performance</h1>
 
 <ul>
-  <li><strong>Accessing Time</strong>: O(1) - this is possible because elements are stored at contiguous locations.
-  <li><strong>Search Time</strong>: O(n) - for sequential search. O(log n) - for binary Search (if the array is sorted).
-  <li><strong>Insertion Time</strong>: O(n) - the worst case occurs when insertion happens at the beginning of the array and requires shifting of all elements.
-  <li><strong>Deletion Time</strong>: O(n) - The worst case occurs when deletion happens at the beginning of the array and requires shifting all elements.
+  <li><strong>Accessing Time</strong>: O(1) - this is possible because elements are stored at contiguous locations
+  <li><strong>Search Time</strong>: O(n) - for sequential search. O(log n) - for binary Search (if the array is sorted)
+  <li><strong>Insertion Time</strong>: O(n) - the worst case occurs when insertion happens at the beginning of the array and requires shifting of all elements
+  <li><strong>Deletion Time</strong>: O(n) - The worst case occurs when deletion happens at the beginning of the array and requires shifting all elements
 </ul>
 
 <h1>Use Cases</h1>
 
 <ul>
-  <li>Anything that requires storing and accessing a sequence of objects
+  <li> you need indexed/random access to elements
+  <li> you need speed when iterating through all the elements in sequence
+  <li> you need speed when iterating through all the elements in sequence
+  <li> memory is a concern. Filled arrays can take up less memory than other data structures (each element in the array is just the data).
 </ul>
 
 <h1>Example</h1>

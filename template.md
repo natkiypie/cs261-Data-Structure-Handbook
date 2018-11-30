@@ -4,19 +4,17 @@
 <p>A <strong>x</strong></p>
 
 <h1>In Memory</h1>
-<p>In memory, x looks like this:</p>
 
+<p>In memory, x looks like this:</p>
 <img src="" width="500">
 
-<h1>Basic Operations</h1>
+<h1>Common Operations</h1>
 
 <ul>
   <li><strong></strong> - 
 </ul>
 
 <h1>Performance</h1>
-
-<p>Big-O efficiency of operations:</p>
 
 <ul>
   <li><strong></strong>
