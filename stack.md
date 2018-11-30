@@ -67,3 +67,4 @@ class Stack:
   <li><strong>size(  )</strong> - again, the size method utilizes the Python list's <strong>len</strong> method. This operation returns the value of the list's length pointer. This is an O(1) constant time operation.
 </ul>
 
+<p>&copy; Nathaniel Pierce. All rights reserved.</p>
