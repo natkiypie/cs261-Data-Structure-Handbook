@@ -6,7 +6,7 @@
 <h1>In Memory</h1>
 
 <p>In memory, graph looks like this:</p>
-<img src="" width="500">
+<img src="img/graph.png" width="500">
 
 <h1>Common Operations</h1>
 

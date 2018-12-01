@@ -6,7 +6,7 @@
 <h1>In Memory</h1>
 
 <p>In memory, a tree looks like this:</p>
-<img src="" width="500">
+<img src="img/tree.png" width="500">
 
 <h1>Common Operations</h1>
 
