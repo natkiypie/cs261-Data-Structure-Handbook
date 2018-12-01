@@ -20,7 +20,7 @@
 <h1>Performance</h1>
 
 <ul>
-  <li><strong>Accessing/Search Time</strong>: O(n) - to access or find an arbitary element stored in a deque requires shifting its contents repeatedly until it is found. The time complexity of this operation depends on the size of the queue and is therefore linear
+  <li><strong>Accessing/Search Time</strong>: O(n) - to access or find an arbitary element stored in a deque requires shifting its contents repeatedly until it is found. The time complexity of this operation is proportional to the size of the data set and is therefore linear
   <li><strong>Insertion/Deletion Time</strong>: O(1) - inserting or deleting an item into/from a deque, can take place at the front or back of the deque and is therefore done in constant time. Additionally, the time complexity of insertion or deletion in the middle, given an iterator, is O(1)
 </ul>
 

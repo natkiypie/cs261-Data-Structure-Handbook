@@ -19,8 +19,8 @@
 <h1>Performance</h1>
 
 <ul>
-  <li><strong>Accessing Time</strong>: O(n) - to access an element stored in a linked list you must traverse the list using the references stored in each node, starting from the head. Accessing time depends on the size of the list and is therefore linear.
-  <li><strong>Search Time</strong>: O(n) - to search for an element stored in a linked list you must traverse the list using the references stored in each node, starting from the head. Search time also depends on the size of the list and is therefore linear.
+  <li><strong>Accessing Time</strong>: O(n) - to access an element stored in a linked list you must traverse the list using the references stored in each node, starting from the head. Accessing time is proportional to the size of the dataset and is therefore linear.
+  <li><strong>Search Time</strong>: O(n) - to search for an element stored in a linked list you must traverse the list using the references stored in each node, starting from the head. The number of comparisons made while searching also depends on the size of the dataset and is therefore linear.
   <li><strong>Insertion Time</strong>: O(1) - items stored in a linked list are not stored in contiguous memory. Therefore, if you are at the position where the item must be inserted, insertion can be done in constant time.
   <li><strong>Deletion Time</strong>: O(1) - similarly, if the address of the item previous to the item that must be deleted, deletion from a list can be done in constant time.
 </ul>

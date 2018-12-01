@@ -23,7 +23,7 @@
 <h1>Performance</h1>
 
 <ul>
-  <li><strong>Search/Delete</strong>: O(n) - sets can be implemented using various data structures, which provide different time and space trade-offs for various operations. A Python set is implemented as a <strong>hash table</strong> - a data structure which stores data in an associative manner. In a hash table, data is stored in an array format, where each data value has its own unique index value. Therefore, the search and delete operations are O(n) worst case
+  <li><strong>Search/Insert/Delete</strong>: O(n) - sets can be implemented using various data structures, which provide different time and space trade-offs for various operations. A Python set is implemented as a <strong>hash table</strong> - a data structure which stores data in an associative manner. In a hash table, data is stored in an array format, where each data value has its own unique index value. Therefore, the search, insert and delete operations are O(n) worst case
   <li><strong>Mathematical Operations</strong>: O(len(a)+len(b)), where a and b are sets 
 </ul>
 
