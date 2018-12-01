@@ -22,7 +22,7 @@
 
 <ul>
   <li><strong>Insertions</strong> - O(1): The insertion of a node only requires creating a property (fields of object/classes with dedicated getter/setter routines) on an object and is therefore a constant time operation.
-  <li><strong>Deletion</strong> - O(n): if a vertex has edges, it is necessary to iterate over all of it’s existing edges to remove it’s existence as an edge on it’s connected vertices. The time complexity of removing an edge depends on its degree, which is a linear operation. To remove an edge is O(1): because vertices are simply graph properties, they can be accessed and deleted in constant time.
+  <li><strong>Deletion</strong> - O(n): if a vertex has edges, it is necessary to iterate over all of it’s existing edges to remove it’s existence as an edge on it’s connected vertices. The time complexity of removing an edge depends on its degree, which is a linear operation.
   <li><strong>Search</strong> - O(1): to find a graph property, such as a vertex, is a constant time operation. To check if a connection exists between two edges is also a constant time lookup since both nodes are graph properties.
 </ul>
 

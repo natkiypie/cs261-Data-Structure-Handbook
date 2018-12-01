@@ -1,7 +1,7 @@
 
 <h1>The Tree Abstract Data Type</h1>
 
-<p>The <strong>tree</strong>, similar to the list, stack and queue, is a linked data structure. Unlike the list, stack and queue, a tree is nonlinear, hierarchical structure that may contain multiple relationships among its <strong>nodes</strong>(the fundamental unit of which graphs are formed). A tree is a collection of nodes connected by directed(one-way) or undirected(two-way) <strong>edges</strong>(the path between each node). A tree may be empty(no nodes) or may consist of a <strong>root</strong>(a node that has no parent nodes), and zero or more subtrees. There are many different implementations of trees, from general trees to AVL and Red-Black trees, that are all very useful for different reasons.</p>
+<p>The <strong>tree</strong>, similar to the list, stack and queue, is a linked data structure. Unlike the list, stack and queue, the tree is a nonlinear, hierarchical structure that may contain multiple relationships among its <strong>nodes</strong> (the fundamental unit of which graphs are formed). A tree is a collection of nodes connected by directed (one-way) or undirected (two-way) <strong>edges</strong> (the path between each node). A tree may be empty(no nodes) or may consist of a <strong>root</strong> (a node that has no parent nodes), and zero or more subtrees. There are many different implementations of trees, from general trees to AVL and Red-Black trees, that are all very useful for different reasons.</p>
 
 <h1>In Memory</h1>
 
