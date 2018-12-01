@@ -5,7 +5,7 @@
 
 <h1>In Memory</h1>
 <p>In memory, an array looks like this:</p>
-<img src="img/array.png" width="500">
+<img src="img/array.png" width="800">
 
 <h1>Common Operations</h1>
 

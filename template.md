@@ -6,7 +6,7 @@
 <h1>In Memory</h1>
 
 <p>In memory, x looks like this:</p>
-<img src="" width="500">
+<img src="" width="800">
 
 <h1>Common Operations</h1>
 

@@ -6,7 +6,7 @@
 <h1>In Memory</h1>
 
 <p>In memory, a tuple looks like this:</p>
-<img src="img/tuple.png" width="500">
+<img src="img/tuple.png" width="800">
 
 <h1>Common Operations</h1>
 

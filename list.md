@@ -5,7 +5,7 @@
 
 <h1>In Memory</h1>
 <p>In memory, a list looks like this:</p>
-<img src="img/list.png" width="500">
+<img src="img/list.png" width="800">
 
 <h1>Common Operations</h1>
 
