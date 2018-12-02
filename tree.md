@@ -33,7 +33,7 @@
 
 <h1>Example</h1>
 
-![](gif/x.gif)
+![](gif/tree.gif)
 
 <p>&copy; Nathaniel Pierce. All rights reserved.</p>
 

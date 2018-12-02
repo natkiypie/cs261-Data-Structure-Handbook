@@ -33,34 +33,9 @@
   <li>asynchronous data transfer (data not received at same rate as sent)
 </ul>
 
-<h1>Implementation</h1>
-
-<p>Python implementation of queue ADT:</p>
-
-```python
-
-class Queue:
-
-    def __init__(self):
-        self.items = []
-
-    def is_empty(self):
-        return self.items == []
-
-    def enqueue(self, item):
-        self.items.insert(0, item)
-
-    def dequeue(self):
-        return self.items.pop()
-
-    def size(self):
-        return len(self.items)
-
-```
-
 <h1>Example</h1>
 
-![](../../../gif/queue.gif)
+![](gif/queue.gif)
 
 <p>&copy; Nathaniel Pierce. All rights reserved.</p>
 

@@ -32,7 +32,7 @@
 
 <h1>Example</h1>
 
-![](gif/x.gif)
+![](gif/tuple.gif)
 
 <p>&copy; Nathaniel Pierce. All rights reserved.</p>
 
