@@ -36,6 +36,8 @@
 
 <h1>Implementation</h1>
 
+<p>Python implementation of stack ADT:</p>
+
 ```python
 
 class Stack:

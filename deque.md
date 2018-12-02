@@ -32,6 +32,37 @@
   <li>Priority queueing applications
 </ul>
 
+<h1>Implementation</h1>
+
+<p>Python implementation of deque ADT:</p>
+
+```python
+
+class Deque:
+
+    def __init__(self):
+        self.items = []
+
+    def is_empty(self):
+        return self.items == []
+
+    def add_front(self, item):
+        self.items.append(item)
+
+    def add_rear(self, item):
+        self.items.insert(0, item)
+
+    def remove_front(self):
+        return self.items.pop()
+
+    def remove_rear(self):
+        return self.items.pop(0)
+
+    def size(self):
+        return len(self.items)
+
+```
+
 <h1>Example</h1>
 
 ![](../../../gif/deque.gif)

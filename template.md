@@ -26,6 +26,10 @@
   <li>
 </ul>
 
+<h1>Implementation</h1>
+
+<p>Implementation of the stack ADT using Python:</p>
+
 <h1>Example</h1>
 
 ![](gif/x.gif)
